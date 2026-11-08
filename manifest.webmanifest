@@ -1,0 +1,26 @@
+{
+  "id": "stremio-glass-pwa",
+  "name": "Stremio Glass",
+  "short_name": "Glass",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080910",
+  "theme_color": "#080910",
+  "description": "Stremio Glass — lecteur et catalogues iPad",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
